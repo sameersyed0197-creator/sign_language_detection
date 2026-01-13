@@ -53,4 +53,44 @@ LANGUAGE_MAP = {
         "te": "neellu",
         "ta": "thanni",
     },
+
+    "nice to meet you": {
+        "en": "nice to meet you",
+        "hi": "aap se milkar accha laga",
+        "te": "mee to kalisi santoshamga undi",
+        "ta": "ungalai sandhithathu magizhchiyai",
+    },
+    "sorry": {
+        "en": "sorry",
+        "hi": "maaf kijiye",
+        "te": "kshaminchandi",
+        "ta": "mannikkavum",
+    },
+    "good" : {
+        "en": "good",
+        "hi": "achha",
+        "te": "baagundi",
+        "ta": "nallathu",
+    },
+    "help": {
+        "en": "help",
+        "hi": "madad",
+        "te": "sahayam",
+        "ta": "uthavi"
+    },
+    "stop": {
+        "en": "stop",
+        "hi": "ruk jao",
+        "te": "nilabandi",
+        "ta": "nillu",
+    },
+    "i don't know": {
+        "en": "I don't know",
+        "hi": "mujhe nahi pata",
+        "te": "naku teliyadu",
+        "ta": "enakku theriyathu",
+    },
+
+
+
 }
